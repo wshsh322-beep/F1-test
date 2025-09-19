@@ -1,0 +1,5 @@
+{
+  "name": "F1 Reaction Time Test",
+  "description": "A web application that simulates the F1 start light sequence to test your reaction time. Press the spacebar to start the sequence. When the lights go out, press the spacebar or tap the screen as fast as you can. Reacting too early results in a jump start.",
+  "requestFramePermissions": []
+}
